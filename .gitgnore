@@ -1,2 +1,3 @@
 .env
-.exe
+# Unignore all with extensions
+!*.exe
